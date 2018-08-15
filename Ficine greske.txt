@@ -1,0 +1,17 @@
+LOGINPAGE
+
+-Whene user just try to click login,  there is not some warning that he must input fields.
+-It doesnt want to login on "Enter".
+-It doesent show that there is mistake on users inputs, it just turn back to login page.
+-It doesnt show warning that caps lock is on and it can login with caps lock on username.	
+-It doesnt show warning that password is wrong.
+-When you send your mail in forgot password,nothing is happening.
+
+-SITE
+-"Galerija" button doesnt work!
+-Change of your profile informations doesnt always work.
+-Change profile photo is working , but it is very confusing.Must be a better way to do that.
+-When you change your photo it redirect you on some url, but doesnt navigate you back after that.
+-When there is not results in search field, it doesnt show you anything.
+-When you enter First and Last name of a person that have profile, there is not results.
+	
